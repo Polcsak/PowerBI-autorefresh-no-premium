@@ -7,12 +7,9 @@ This script locates the on-screen position of a specific image (for example, a "
 1. **Save Your Image:**
    - Capture the screenshot (or image snippet) of the element you want to locate.
    - Save the image as a PNG file (e.g., `replace.png`).
-   - Place the image in your chosen folder (for example:  
-     `C:\Users\jakub\SynologyDrive\osobna_zlozka\Projects\Overviews\Finance_Overview\Refresh_powerBI\`).
+   - Place the image in your chosen folder:  
+     `C:\Users\your\folder\Refresh_powerBI\`).
    - Update the `image_path` variable in the script with the correct file path to your image.
-
-2. **Debug Screenshot:**
-   - The script saves a screenshot of your entire screen to the desktop as `debug_screen.png`. This is useful for debugging and ensuring your target window is correctly captured.
 
 ## How It Works
 
